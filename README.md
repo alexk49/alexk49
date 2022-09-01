@@ -6,6 +6,6 @@ I can some do basic python thanks to Jose Portilla, Al Sweigart and others.
 
 I'm currently working through CS50... 
 
-As well as 💻, I like ☕ 🦜 🎾 🎸 🎹 and some other things that can't be expressed with emojis 
+Otherwise I am working on my full time job, personal practise projects, codewars or project euler. 
 
-![Codewars](https://github.r2v.ch/codewars?user=lexicypher&stroke=%23BB432C) 
+As well as 💻, I like ☕ 🦜 🎾 🎸 🎹 and some other things that can't be expressed with emojis 
