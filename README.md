@@ -8,4 +8,4 @@ I'm currently working through CS50...
 
 Otherwise, I am working on my full time job, personal practise projects, codewars and/or project euler. 
 
-As well as 💻, I like ☕ 🦜 🎾 🎸 🎹 and some other things that can't be expressed with emojis 
+As well as 💻, I like ☕ 🦜 🎾 🎸 🎹 🥾 and some other things that can't be expressed with emojis 
