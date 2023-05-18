@@ -1,3 +1,3 @@
 Hi, I’m @alexk49
 
-I like ☕ 🦜 🎾 🎸 🎹 🥾 and some other things that can't be expressed with emojis.
+Learning to code is learning to enjoy hitting your head against a wall. My head is very sore.
